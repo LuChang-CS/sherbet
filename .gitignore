@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# IDEA
+.idea/
+
+# baselines
+./baselines
+run_baselines.py
